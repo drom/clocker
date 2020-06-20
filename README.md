@@ -1,2 +1,3 @@
 # clocker
-clock generator
+
+multi-clock generator
